@@ -1,0 +1,20 @@
+.jumbotron{
+    text-align: center;
+}
+
+
+.btn{
+    text-align: center;
+    background-color: blue;
+    color:white;
+    font-weight: bold;
+}
+
+#tables-btn{
+    background-color: blue;
+}
+
+
+#reserve-btn{
+    background-color: red;  
+}
